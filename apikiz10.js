@@ -1,7 +1,7 @@
 var refi = false;
 var urif = window.location.href;
 
-const str = urif;
+var str = urif;
 const flagKiz = '?kiz10';
 
 
